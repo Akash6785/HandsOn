@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+
+    var title = "IT-Organizations";
+    var description = "Amazon is the IT organization that has built its largest office at Hyderabad in 2019.";
+    List<string> organizations = new List<string>
+    {
+        "Microsoft",
+        "CTS",
+        "Google",
+        "Amazon",
+        "TCS"
+};
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Few Organizations</title>
+</head>
+<body>
+
+    <div>
+        <div>
+            <h1>@title</h1>
+
+            <div>
+
+                @foreach (var item in organizations)
+                {
+
+                    <div>
+                        @if (item == "Amazon")
+                        {
+                            <span><b>@organizations</b></span>
+                        }
+                        else
+                        {
+                            <span>@organizations</span>
+                        }
+                    </div>
+                }
+
+            </div>
+            <h5>Description:</h5>
+            <div>@description</div>
+        </div>
+       
+    </div>
+</body>
+</html>
