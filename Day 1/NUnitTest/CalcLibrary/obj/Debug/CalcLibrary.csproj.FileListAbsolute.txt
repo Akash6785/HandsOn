@@ -1,7 +1,0 @@
-C:\Users\email\source\repos\UnitTest\CalcLibrary\bin\Debug\CalcLibrary.exe.config
-C:\Users\email\source\repos\UnitTest\CalcLibrary\bin\Debug\CalcLibrary.exe
-C:\Users\email\source\repos\UnitTest\CalcLibrary\bin\Debug\CalcLibrary.pdb
-C:\Users\email\source\repos\UnitTest\CalcLibrary\obj\Debug\CalcLibrary.csproj.CoreCompileInputs.cache
-C:\Users\email\source\repos\UnitTest\CalcLibrary\obj\Debug\CalcLibrary.exe
-C:\Users\email\source\repos\UnitTest\CalcLibrary\obj\Debug\CalcLibrary.pdb
-C:\Users\email\source\repos\UnitTest\CalcLibrary\obj\Debug\CalcLibrary.csprojAssemblyReference.cache

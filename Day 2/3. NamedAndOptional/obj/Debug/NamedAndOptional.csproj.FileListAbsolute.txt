@@ -1,7 +1,0 @@
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\bin\Debug\NamedAndptional.exe.config
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\bin\Debug\NamedAndptional.exe
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\bin\Debug\NamedAndptional.pdb
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\obj\Debug\NamedAndOptional.csprojAssemblyReference.cache
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\obj\Debug\NamedAndOptional.csproj.CoreCompileInputs.cache
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\obj\Debug\NamedAndptional.exe
-C:\Users\email\Downloads\New\HandsOn\NamedAndptional\obj\Debug\NamedAndptional.pdb

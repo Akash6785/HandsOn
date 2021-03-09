@@ -1,5 +1,0 @@
-C:\Users\email\source\repos\HandsOn_3\CustomerCommLib\bin\Debug\CustomerCommLib.dll
-C:\Users\email\source\repos\HandsOn_3\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
-C:\Users\email\source\repos\HandsOn_3\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
-C:\Users\email\source\repos\HandsOn_3\CustomerCommLib\obj\Debug\CustomerCommLib.dll
-C:\Users\email\source\repos\HandsOn_3\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

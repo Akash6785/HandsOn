@@ -1,0 +1,7 @@
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+C:\Users\email\Desktop\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb
