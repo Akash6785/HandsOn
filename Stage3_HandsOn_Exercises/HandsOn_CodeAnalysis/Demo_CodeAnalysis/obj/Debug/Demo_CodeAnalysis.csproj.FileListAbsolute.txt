@@ -1,0 +1,2 @@
+C:\Users\email\source\repos\Demo_CodeAnalysis\Demo_CodeAnalysis\obj\Debug\Demo_CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\Demo_CodeAnalysis\Demo_CodeAnalysis\obj\Debug\Demo_CodeAnalysis.csprojAssemblyReference.cache

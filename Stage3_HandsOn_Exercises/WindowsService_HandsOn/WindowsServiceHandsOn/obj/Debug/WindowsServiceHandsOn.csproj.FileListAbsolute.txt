@@ -1,0 +1,9 @@
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.csprojAssemblyReference.cache
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.ProjectInstaller.resources
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.csproj.GenerateResource.cache
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe.config
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.pdb
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.exe
+C:\Users\email\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.pdb

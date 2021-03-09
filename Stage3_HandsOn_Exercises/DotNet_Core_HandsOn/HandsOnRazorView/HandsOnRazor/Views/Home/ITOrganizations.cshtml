@@ -1,0 +1,53 @@
+﻿@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "ITOrganizations";
+    Layout = null;
+    var description = "Amazon is the IT organization that has built its largest office at Hyderabad in 2019.";
+    List<string> organizations = new List<string>()
+{
+        "Microsoft www.microsoft.com",
+        "CTS www.cognizant.com",
+        "Google",
+        "Amazon",
+        "TCS"
+};
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Few Organizations Of Hyderabad</title>
+</head>
+<body>
+
+    <div>
+        <div>
+            <h1>ITOrganizations</h1>
+
+            <div>
+
+                @foreach (var item in organizations)
+                {
+
+                <div>
+                    @if (item == "Amazon")
+                    {
+                        <span><b>@item</b></span>
+                    }
+                    else
+                    {
+                        <span>@item</span>
+                    }
+                </div>
+                }
+
+            </div>
+            
+            <div>@description</div>
+        </div>
+
+    </div>
+</body>
+</html>
+

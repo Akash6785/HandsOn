@@ -1,0 +1,10 @@
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\bin\Debug\PictureUpload.exe.config
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\bin\Debug\PictureUpload.exe
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\bin\Debug\PictureUpload.pdb
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\ImageUpload.Form1.resources
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\PictureUpload.Properties.Resources.resources
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\ImageUpload.csproj.GenerateResource.cache
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\PictureUpload.exe
+C:\Users\email\Downloads\New\HandsOn Repos\ImageUpload\obj\Debug\PictureUpload.pdb
